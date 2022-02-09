@@ -1,0 +1,32 @@
+
+/* Arquivo para armazernar */
+<style>
+ body{
+   background-color: #7affa8;
+ }
+ 
+ h1{  
+   /* o H! terá essa cor  , totos os títulos serão de cor verde , a não ser que
+  você mude lá no html , você pode mudar o tamanho da fonte por aqui também*/ 
+   color: hsl(2, 79%, 74%);
+   font-size: 35px;
+ }
+ /* àrea comentada
+ p{
+   color: #e80000;
+   font-size: 18px;
+ }
+ */
+ p { 
+   /*  O Paragrafo terá - Tipo de Fontes  - Tamanho de Fonte - cor da letra 
+     Todas essas propriedadade serão válidas para todo o texto que contenha essa tag
+   */
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 12px; 
+
+    color: #24056d;
+
+}
+</style>
